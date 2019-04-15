@@ -2092,33 +2092,10 @@ body {
 .cid-rnFmMp4KtF blockquote {
   color: #767676;
 }
-.cid-rnEW8fwF4O {
-  padding-top: 120px;
-  padding-bottom: 90px;
-  background: linear-gradient(45deg, #792924, #792924);
-}
-@media (min-width: 992px) {
-  .cid-rnEW8fwF4O .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-rnEW8fwF4O .mbr-figure {
-    padding-top: 3rem;
-  }
-}
-.cid-rnEW8fwF4O .media-container-row {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
-}
-@media (min-width: 992px) {
-  .cid-rnEW8fwF4O .media-container-row .mbr-figure {
-    padding-left: 0;
-    padding-right: 4rem;
-  }
-}
-.cid-rnEW8fwF4O .mbr-section-title {
-  color: #ffffff;
+.cid-rnI8Snsp7x {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #792924;
 }
 .cid-rnFm27exrS {
   padding-top: 90px;
